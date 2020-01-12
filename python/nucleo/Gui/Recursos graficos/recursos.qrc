@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="cct">
+    <file>error.png</file>
+    <file>cuestion.png</file>
+    <file>cancelar2.0.png</file>
+    <file>confirm.png</file>
+    <file>logos-UNAH-11.png</file>
+    <file>tagdescription_102241.png</file>
+    <file>moneda.png</file>
+    <file>tipoMoneda.png</file>
+    <file>costo.png</file>
+    <file>producto.png</file>
+    <file>agregar.png</file>
+    <file>cancelar.png</file>
+    <file>btnEliminar.png</file>
+    <file>btnEditar.png</file>
+    <file>Pentagon_34543.png</file>
+    <file>circuloLbl.png</file>
+    <file>Acerca de.png</file>
+    <file>Active_Directory-80_icon-icons.com_57383.png</file>
+    <file>verLista.png</file>
+    <file>circulo.png</file>
+    <file>Fondo transaparente.png</file>
+    <file>fondo.png</file>
+    <file>AgregarInventario.png</file>
+  </qresource>
+</RCC>
